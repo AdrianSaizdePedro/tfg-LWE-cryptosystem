@@ -1,0 +1,4 @@
+The LWE problem was introduced by Oded Regev in 2005 (who won the 2018 Godel Prize for this work).
+Regev showed that the LWE problem is as hard to solve as several worst-case lattice problems.
+It is based on the idea of representing secret information as a set of equations with errors.
+In other words, LWE is a way to hide the value of a secret by introducing noise to it.
